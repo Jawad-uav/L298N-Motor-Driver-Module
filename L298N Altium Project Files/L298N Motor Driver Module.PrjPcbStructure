@@ -1,1 +1,3 @@
-Record=TopLevelDocument|FileName=L298N Motor Driver Module Schematic.SchDoc|SheetNumber=1
+Record=TopLevelDocument|FileName=Connectors and Headers.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=Connectors and Headers.SchDoc|FileName=L298N Motor Driver Module Schematic.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=Connectors and Headers.SchDoc|FileName=Power Suppy Schematic.SchDoc|SheetNumber=2

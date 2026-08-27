@@ -54,7 +54,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=0
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -220,11 +220,11 @@ DocumentUniqueId=GGUARQAI
 [Document11]
 DocumentPath=Power Suppy Schematic.SchDoc
 AnnotationEnabled=1
-AnnotateStartValue=1
+AnnotateStartValue=2
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -236,6 +236,23 @@ DocumentUniqueId=NUVMOBCY
 
 [Document12]
 DocumentPath=Connectors and Headers.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=3
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=2
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=GIAQKETG
+
+[Document13]
+DocumentPath=L298N Motor Driver Module PCB.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -249,7 +266,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=GIAQKETG
+DocumentUniqueId=WQMWIWXU
 
 [Configuration1]
 Name=Sources
