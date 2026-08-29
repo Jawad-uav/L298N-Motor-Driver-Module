@@ -1,0 +1,38 @@
+Removed Pin From Net: NetName=GND Pin=H3-1
+Removed Pin From Net: NetName=GND Pin=H3-2
+Removed Pin From Net: NetName=Sense_A_IC Pin=H3-3
+Removed Pin From Net: NetName=Sense_B_IC Pin=H3-4
+Removed Pin From Net: NetName=Sense_A_MCU Pin=H3-5
+Removed Pin From Net: NetName=Sense_B_MCU Pin=H3-6
+Removed Pin From Net: NetName=Sense_A_MCU Pin=R3-2
+Removed Pin From Net: NetName=Sense_B_MCU Pin=R4-2
+Change component parameters: Designator = "R3" ("R3"); Footprint = "RES_1206"; UniqueID = "\TNQFJEEF" ("\TNQFJEEF")
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.25R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R4" ("R4"); Footprint = "RES_1206"; UniqueID = "\NXDKVIFO" ("\NXDKVIFO")
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.25R"; VariantName = "[No Variations]"
+Added Component: Designator=P?(HDR2X4)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Sense_B_IC Pin=P?-1
+Added Pin To Net: NetName=Sense_A_MCU Pin=P?-2
+Added Pin To Net: NetName=GND Pin=P?-3
+Added Pin To Net: NetName=Sense_A_MCU Pin=P?-4
+Added Pin To Net: NetName=GND Pin=P?-5
+Added Pin To Net: NetName=Sense_B_MCU Pin=P?-6
+Added Pin To Net: NetName=Sense_A_IC Pin=P?-7
+Added Pin To Net: NetName=Sense_B_MCU Pin=P?-8
+Added Pin To Net: NetName=Sense_B_MCU Pin=R3-2
+Added Pin To Net: NetName=Sense_A_MCU Pin=R4-2

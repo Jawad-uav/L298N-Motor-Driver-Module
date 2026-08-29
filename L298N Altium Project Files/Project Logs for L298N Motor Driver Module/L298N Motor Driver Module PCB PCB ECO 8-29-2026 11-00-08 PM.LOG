@@ -1,0 +1,11 @@
+Change Component Footprint: Designator=R3 Old Footprint=RES_1206 New Footprint=CSS2H-2512
+Change Component Footprint: Designator=R4 Old Footprint=RES_1206 New Footprint=CSS2H-2512
+Change Component Comment : Designator=R3 Old Comment=Res1 New Comment=CSS2H-2512
+Change Component Comment : Designator=R4 Old Comment=Res1 New Comment=CSS2H-2512
+Change Component Designator: OldDesignator=P? NewDesignator=H4
+Change component parameters: Designator = "R3" ("R3"); Footprint = "RES_1206"; UniqueID = "\QRVOVSBN" ("\QRVOVSBN")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Bourns"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "CSS2H-2512"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R4" ("R4"); Footprint = "RES_1206"; UniqueID = "\AOQGLKKK" ("\AOQGLKKK")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Bourns"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "CSS2H-2512"; VariantName = "[No Variations]"
