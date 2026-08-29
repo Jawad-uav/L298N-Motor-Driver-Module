@@ -1,0 +1,12 @@
+Added Component: Designator=H4(HEADER 1X2 2.54MM)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Sense_A_MCU Pin=H3-5
+Added Pin To Net: NetName=Sense_A_MCU Pin=H4-1
+Added Pin To Net: NetName=Sense_A_MCU Pin=R3-2
+Added Net: Name=Sense_A_MCU
+Added Pin To Net: NetName=Sense_B_MCU Pin=H3-6
+Added Pin To Net: NetName=Sense_B_MCU Pin=H4-2
+Added Pin To Net: NetName=Sense_B_MCU Pin=R4-2
+Added Net: Name=Sense_B_MCU

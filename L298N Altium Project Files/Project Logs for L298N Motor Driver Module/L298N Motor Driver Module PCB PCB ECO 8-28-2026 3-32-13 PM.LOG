@@ -1,0 +1,22 @@
+Change Component Footprint: Designator=D12 Old Footprint=LED_0603_BLUE New Footprint=LED_0603_YELLOW
+Change Component Footprint: Designator=D11 Old Footprint=LED_0603_YELLOW New Footprint=LED_0603_BLUE
+Change Component Comment : Designator=D1 Old Comment=LED1 New Comment=BLUE
+Change Component Comment : Designator=D11 Old Comment=LED1 New Comment=BLUE
+Change Component Comment : Designator=D2 Old Comment=LED1 New Comment=YELLOW
+Change Component Comment : Designator=D12 Old Comment=LED1 New Comment=YELLOW
+Change component parameters: Designator = "D1" ("D1"); Footprint = "LED_0603_BLUE"; UniqueID = "\ABZPHUTN" ("\ABZPHUTN")
+Change component parameters: Designator = "D2" ("D2"); Footprint = "LED_0603_YELLOW"; UniqueID = "\RXEWDTAP" ("\RXEWDTAP")
+Change component parameters: Designator = "D11" ("D11"); Footprint = "LED_0603_YELLOW"; UniqueID = "\XWZFAPMR" ("\XWZFAPMR")
+Change component parameters: Designator = "D12" ("D12"); Footprint = "LED_0603_BLUE"; UniqueID = "\OHRKTDIK" ("\OHRKTDIK")
+Added Pin To Net: NetName=OUT_1 Pin=D1-A
+Added Pin To Net: NetName=OUT_1 Pin=D2-K
+Added Pin To Net: NetName=OUT_4 Pin=D11-K
+Added Pin To Net: NetName=OUT_4 Pin=D12-A
+Added Pin To Net: NetName=NetD1_K Pin=D1-K
+Added Pin To Net: NetName=NetD1_K Pin=D2-A
+Added Pin To Net: NetName=NetD1_K Pin=R1-2
+Added Net: Name=NetD1_K
+Added Pin To Net: NetName=NetD11_A Pin=D11-A
+Added Pin To Net: NetName=NetD11_A Pin=D12-K
+Added Pin To Net: NetName=NetD11_A Pin=R2-1
+Added Net: Name=NetD11_A
