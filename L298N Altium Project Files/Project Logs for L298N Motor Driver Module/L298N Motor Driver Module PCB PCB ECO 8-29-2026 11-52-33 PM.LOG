@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=EN_A Pin=H1-1
+Removed Pin From Net: NetName=IN1 Pin=H1-2
+Removed Pin From Net: NetName=IN2 Pin=H1-4
+Removed Pin From Net: NetName=IN3 Pin=H1-6
+Removed Pin From Net: NetName=EN_B Pin=H1-7
+Removed Pin From Net: NetName=IN4 Pin=H1-8
+Added Pin To Net: NetName=EN_B Pin=H1-1
+Added Pin To Net: NetName=IN4 Pin=H1-2
+Added Pin To Net: NetName=IN3 Pin=H1-4
+Added Pin To Net: NetName=IN2 Pin=H1-6
+Added Pin To Net: NetName=EN_A Pin=H1-7
+Added Pin To Net: NetName=IN1 Pin=H1-8

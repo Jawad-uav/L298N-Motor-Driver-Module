@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=Sense_B_IC Pin=P?-1
+Removed Pin From Net: NetName=Sense_A_MCU Pin=P?-2
+Removed Pin From Net: NetName=GND Pin=P?-3
+Removed Pin From Net: NetName=Sense_A_MCU Pin=P?-4
+Removed Pin From Net: NetName=GND Pin=P?-5
+Removed Pin From Net: NetName=Sense_B_MCU Pin=P?-6
+Removed Pin From Net: NetName=Sense_A_IC Pin=P?-7
+Removed Pin From Net: NetName=Sense_B_MCU Pin=P?-8
+Added Pin To Net: NetName=Sense_A_MCU Pin=P?-1
+Added Pin To Net: NetName=Sense_B_IC Pin=P?-2
+Added Pin To Net: NetName=Sense_A_MCU Pin=P?-3
+Added Pin To Net: NetName=GND Pin=P?-4
+Added Pin To Net: NetName=Sense_B_MCU Pin=P?-5
+Added Pin To Net: NetName=GND Pin=P?-6
+Added Pin To Net: NetName=Sense_B_MCU Pin=P?-7
+Added Pin To Net: NetName=Sense_A_IC Pin=P?-8
